@@ -1,0 +1,105 @@
+img{
+			height:auto;
+			width:200px;
+			border-radius: 100%;
+			margin-left: 1100px;
+			margin-bottom: -200px;
+
+
+
+		}*/
+				
+		section{
+		 font-family: Century Gothic;
+		 font-weight: normal;
+		 font-size: 20;
+		}
+		#secondparagraph{
+		background-color: rgb(233, 157, 157);
+
+		}
+		body{
+			background-color: blueviolet;
+			margin: 0;
+
+		}
+		h1{
+			text-align: center;
+
+		}
+		#header1{
+			text-align: left;
+			color: black ;
+			font-weight: bold italic;
+			font-family:Calibri;
+		}
+		#header2{
+			color: black;
+			font-family:Calibri;
+			margin-right: -400px;
+			margin-top: -60px;
+			padding-top: -5px;
+			margin-left: -175px;
+		}
+		#firstparagraph{
+			text-align: left;
+			font-family: Century 'Times New Roman', Times, serif;
+			font-weight: bold italic;
+			font-size: 15px;
+			color: black;
+		}
+		a{
+			color: #72787E;
+		}
+	     
+	    
+	     h3{
+	     	color:black;
+	     	font-size: 30px;
+	     	font-weight:bold italic;
+	     	font-family: Calibri;
+	     }
+	    #thirdparagraph{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: normal;
+	    }
+	    #experience{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: normal;
+	    	margin-left: 700px;
+	    	margin-top: -215px;
+	    }
+	    #attributes{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: normal;
+	    }
+	    #education{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: italic;
+	    	margin-left: 700px;
+	    	margin-top: -100px;
+	    }
+	    h2{
+	    font-family: Century Gothic;
+		font-weight: bold;
+		 
+	    }
+	    a{
+	    	text-decoration-line: none;
+       	    color: #72787E;
+
+	    }
+	    button{
+	    	border-radius: 50%;
+	    	background-color: gray;
+	    	margin-left: 5%;
+	    	margin-top: -65px;
+	    	height: 50px;
+	    	width: 100px;
+	    	text-shadow: 80px;
+	    	font-size: 20px;
+	    }
